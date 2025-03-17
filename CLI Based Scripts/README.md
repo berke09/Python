@@ -1,4 +1,4 @@
-# 🚀 Python Projects Collection
+# 🚀 CLI Based Scripts Collection
 
 This folder contains a collection of CLI-based projects that demonstrate different use cases such as a Gas Station Management System, a Library Management System, a Notebook application, a Random Password Generator, and an Olive Harvest Manager. These projects showcase various concepts and can be used as examples or inspiration for future projects.
 
