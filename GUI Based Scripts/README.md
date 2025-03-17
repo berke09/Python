@@ -11,7 +11,7 @@ A simple command-line calculator that can perform basic arithmetic operations su
 A to-do list management system that allows users to add, view, delete, and mark tasks as completed. It helps organize daily tasks efficiently.
 
 ### 3️⃣ **NumberDetector**  
-A script that detects whether a given number is odd or even. The program checks if the number is divisible by 2 to determine if it’s **even**, otherwise it’s **odd**.
+A script that detects whether a given number is odd or even. The program checks if the number is divisible by 2 to determine if it’s even, otherwise it’s odd.
 
 ### 4️⃣ **WordSorter**  
 A program that sorts words from a given list in alphabetical order. It can help organize and manage word-based data.
