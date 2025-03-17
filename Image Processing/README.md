@@ -1,7 +1,7 @@
 # 🎥 OpenCV Projects  
 This folder contains Python-based projects utilizing OpenCV for image and video processing. New projects will be added over time.
 
-## 📸 Included Projects
+## 📂 Included Projects
 
 ### 1️⃣ ImageVideoManager  
 A script that allows you to open and view images, convert them to grayscale, capture live video from the webcam, display image/video properties, and capture photos from the webcam.
