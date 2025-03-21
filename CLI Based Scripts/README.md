@@ -19,3 +19,5 @@ A script to generate random passwords with a specified length, ensuring a mix of
 ### 5️⃣ **Olive Harvest Manager**  
 A system designed for managing the olive harvest process, tracking production, and recording harvest details. It helps optimize the olive picking process and manage stock.
 
+### 6️⃣ **ATM-Sim** 
+A simulation of an ATM system that enables users to manage their banking needs efficiently by viewing their current account balance, withdrawing money securely while ensuring adequate funds, depositing money with instant balance updates, and exiting safely after completing their transactions.
